@@ -5707,7 +5707,7 @@ window.magic_books = [
             "limb",
             "Sleeveles",
             "bad anatomy disfigured malformed mutated",
-            "(mutated hands and fingers :1.5)".
+            "(mutated hands and fingers :1.5)",
 			"(long body :1.3)",
             "(mutation)",
             "(poorly drawn :1.2)",
@@ -7165,7 +7165,7 @@ window.magic_books = [
             "limb",
             "Sleeveles",
             "bad anatomy disfigured malformed mutated",
-            "(mutated hands and fingers :1.5)"
+            "(mutated hands and fingers :1.5)",
 			"(long body :1.3)",
             "(mutation)",
             "(poorly drawn :1.2)",
@@ -7666,7 +7666,7 @@ window.magic_books = [
             "limb",
             "Sleeveles",
             "bad anatomy disfigured malformed mutated",
-            "(mutated hands and fingers :1.5)"
+            "(mutated hands and fingers :1.5)",
 			"(long body :1.3)",
             "(mutation)",
             "(poorly drawn :1.2)",
